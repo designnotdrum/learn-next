@@ -1,3 +1,8 @@
+# gitignore
+.DS_Store
+*.log*
 node_modules
-.next
+.next/
+_book
+.vscode
 .env
