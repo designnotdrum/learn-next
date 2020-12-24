@@ -16,7 +16,6 @@
     "isomorphic-unfetch": "^3.0.0",
     "next": "^10.0.4",
     "react": "^16.9.0",
-    "react-css-grid": "^2.0.0-0",
     "react-data-grid": "^6.1.0",
     "react-dom": "^16.9.0",
     "sentiment": "^5.0.1",
